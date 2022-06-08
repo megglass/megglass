@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @megglass
-- 👀 I’m interested in sports analytics and swimming.
-- 🌱 I’m currently learning machine learning
 - 📫 How to reach me: megglass@umich.edu 
 
 <!---
